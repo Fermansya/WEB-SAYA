@@ -20,9 +20,9 @@ html {
 .li-navbar {
   list-style-type: none;
   padding: 20px;
-  margin: 5px;
+  margin: 10px;
   color: #fff;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .li-navbar:hover {
