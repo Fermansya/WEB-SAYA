@@ -4,6 +4,14 @@ html {
   padding: 0;
 }
 
+.kotak {
+  background-image: url(img/hader.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .kotak-navbar {
   background-color: tomato;
   width: 100%;
@@ -33,7 +41,6 @@ html {
 }
 
 .kotak-content {
-  background-color: #f7f7f7;
   display: flex;
   justify-content: center;
   align-items: center;
